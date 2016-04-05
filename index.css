@@ -1,6 +1,8 @@
 .my_blog {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
 }
 
 .my_name {
