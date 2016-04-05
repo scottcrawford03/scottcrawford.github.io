@@ -11,6 +11,6 @@
   color: blue;
 }
 
-.my_social {
-  
+a:link {
+  color: inherit;
 }
