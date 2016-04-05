@@ -1,4 +1,8 @@
-.my_name {
+.my_blog {
   display: flex;
   justify-content: center;
+}
+
+.my_name {
+  color: blue;
 }
