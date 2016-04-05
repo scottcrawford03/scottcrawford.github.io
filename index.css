@@ -5,10 +5,16 @@
   flex-wrap: wrap;
   text-align: center;
 }
-
 .my_name {
   width: 100%;
   color: blue;
+  margin: 40px 0 0 0;
+  font-size: 40px;
+}
+
+.my-title {
+  color: green;
+  font-size: 25px;
 }
 
 a:link, a:visited, a:hover, a:active {
